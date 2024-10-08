@@ -1,0 +1,14 @@
+.weather {
+  position: absolute;
+  top: 0;
+}
+
+.wheater__info {
+  display: flex;
+}
+
+.weather__logo {
+  width: 24px;
+  height: 24px;
+  fill: #eeeeee;
+}

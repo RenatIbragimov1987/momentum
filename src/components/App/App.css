@@ -1,0 +1,26 @@
+.page {
+  /* display: flex; */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+.pageBackground {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.pageTitle {
+  position: relative;
+  top: 200px;
+  color: aliceblue;
+}
